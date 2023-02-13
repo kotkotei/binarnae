@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\sistem3\sistem3\bin\Debug\sistem3.exe.config
+C:\Users\1\source\repos\sistem3\sistem3\bin\Debug\sistem3.exe
+C:\Users\1\source\repos\sistem3\sistem3\bin\Debug\sistem3.pdb
+C:\Users\1\source\repos\sistem3\sistem3\obj\Debug\sistem3.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\sistem3\sistem3\obj\Debug\sistem3.Form1.resources
+C:\Users\1\source\repos\sistem3\sistem3\obj\Debug\sistem3.Properties.Resources.resources
+C:\Users\1\source\repos\sistem3\sistem3\obj\Debug\sistem3.csproj.GenerateResource.cache
+C:\Users\1\source\repos\sistem3\sistem3\obj\Debug\sistem3.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\sistem3\sistem3\obj\Debug\sistem3.exe
+C:\Users\1\source\repos\sistem3\sistem3\obj\Debug\sistem3.pdb
